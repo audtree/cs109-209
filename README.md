@@ -1,6 +1,10 @@
-# Portfolio
+# Data Science Portfolio - Audrey Chang
 
-Hi! I'm Audrey, an impact-oriented data scientist and Harvard sophomore studying Applied Math on the Economics and Computer Science Track. 
+![Photo of Audrey Chang](../imgs/pp_circle.png)
+
+Hi! I'm Audrey, an impact-oriented data scientist and Harvard sophomore studying Applied Math on the Economics and Computer Science Track. This repository collects data science and data analysis projects I have completed for academic, self-learning and hobby purposes. 
+
+**A bit about me...**
 
 I love to work on projects that democratize knowledge, experience, and opportunity. 
 
@@ -12,30 +16,19 @@ In the last 3 years, I've...
 
 Talk to me about: business strategy, management, and marketing trends; the formation of community & social dynamics; and the design of products, places, and markets. 
 
-This repository collects data science projects and assignments to document my learning.
-
-# My Past Projects
----
-RNNs, LSTMs, and Attention Mechanisms for Language Modelling (PyTorch) [HYPERLINK TO JUPYTER NOTEBOOK]()
-Tested the use of Word2Vec embeddings with a variety of sequential input deep learning models towards the task of language modeling (predicting the next word in a sentence).
-
-Skills: ____
-
-# Assignments
-Below are descriptions of past data science assignments. My work is not available publicly as it would violate Copyright Laws to have it available publicly. If available, however, a summary of my produced figures is linked in the associated repository's README. 
+* **Email**: audreychang@college.harvard.edu
+* **Linkedin**: linkedin.com/audreyxychang
 
 ---
-### Web Scraping and Pandas
-Scraped the HTML from a webpage of [Top 100 Stars for 2021](https://www.imdb.com/list/ls577894422/) using the BeautifulSoup Python package and stored actor/actress profiles in a JSON file. Loaded data into dataframe to calculate new actor/actress metrics (age at first credit, number of credits), summary statistics (number of child stars, number of late bloomers), and explore how profiles differed between age groups and genders.  
-
-**Skills:** Web Scraping, Data Parsing, EDA
-**Tools:** BeautifulSoup
+## Projects
+<sup> Note: Some projects are associated to coding exercises and assignments from Harvard's Data Science course, CS109. It violates Copyright Laws to have the assignments available publicly, although I am happy to walk through a detailed project process upon request — see my contact information below! When available, a summary of my produced figures is linked in the associated repository's README. </sup>
 
 ---
 ### Analyzing Top IMDB Stars
+
 Scraped the HTML from a webpage of [Top 100 Stars for 2021](https://www.imdb.com/list/ls577894422/) using the BeautifulSoup Python package and stored actor/actress profiles in a JSON file. Loaded data into dataframe to calculate new actor/actress metrics (age at first credit, number of credits), summary statistics (number of child stars, number of late bloomers), and explored how profiles differed between age groups and genders.  
 
-**Skills:** web dcraping, data parsing, EDA
+**Skills:** web dcraping, data parsing, EDA <br />
 **Tools:** BeautifulSoup
 
 ---
@@ -43,7 +36,7 @@ Scraped the HTML from a webpage of [Top 100 Stars for 2021](https://www.imdb.com
 
 Predicted the current selling price of cars based on the year it was made, the maximum retail price of the car when it was new, and number of kilometers driven using kNN and linear regression.
 
-**Skills:** linear regression, k-Nearest Neighbors (kNN) regression, hyperparameter tuning
+**Skills:** linear regression, k-Nearest Neighbors (kNN) regression, hyperparameter tuning <br />
 **Tools:** scikit-learn
 
 ---
@@ -51,7 +44,14 @@ Predicted the current selling price of cars based on the year it was made, the m
 
 Analyzed simulated income data from the publically available 2021 US Annual Social and Economic (ASEC) Supplement ([source](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2021.html)), provided by the US Census Bureau. (Simulated data turns discrete response variable to continuous response variable via sampling.) Visualized distribution of income by gender, occupation type, education across gender, industry, age, marital status, and of time worked and wage. Calculated Gini coefficient to [measure inequality](https://en.wikipedia.org/wiki/Gini_coefficient) and compared coefficient to other countries. 
 
-**Skills:** data visualization, EDA
+**Skills:** data visualization, EDA <br />
 **Tools:** Matplotlib, Seaborn
 
+---
+### Analyzing Social and Economic Supplement Dataset 
+
+Analyzed simulated income data from the publically available 2021 US Annual Social and Economic (ASEC) Supplement ([source](https://www.census.gov/data/datasets/time-series/demo/cps/cps-asec.2021.html)), provided by the US Census Bureau. (Simulated data turns discrete response variable to continuous response variable via sampling.) Visualized distribution of income by gender, occupation type, education across gender, industry, age, marital status, and of time worked and wage. Calculated Gini coefficient to [measure inequality](https://en.wikipedia.org/wiki/Gini_coefficient) and compared coefficient to other countries. 
+
+**Skills:** data visualization, EDA <br />
+**Tools:** Matplotlib, Seaborn
 

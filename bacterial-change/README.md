@@ -2,7 +2,7 @@
 
 The goal of this assignment was to build regression models to predict the precent change in bacteria population after 4 hours based on their “spreading factor.” In this exercise, we consider the `spreading_factor ` to be our predictor variable and `perc_population` to be our response variable. We explore several different approaches, with mean squared error (MSE) as our evaluative criteria to find the best fit and most robust polynomial regression to model the relationship.
 
-**Skills:** LASSO regularization, polynomial regression, model selection, hyperparameter tuning, data visualization
+**Skills:** LASSO regularization, polynomial regression, model selection, hyperparameter tuning, data visualization <br />
 **Tools:** scikit-learn
 
 **Assignment outline:**
@@ -23,7 +23,7 @@ We begin by visualizing the predictor and response variable in a simple scatter 
   <img src="imgs/initial-model.png" />
 </p>
 
-Next, we use 100 bootstrapped samples to generate 95% confidence intervals for the model coefficients by refitting the model to each bootstrapped sample of the training data. The bootstrapped coefficients are shown as a grid of histograms below. The histograms reveal that mean $\beta_i$ values that are very similar to the corresponding $\beta_i$ values identified in our original degree-3 polynomial model. 
+Next, we use 100 bootstrapped samples to __generate 95% confidence intervals for the model coefficients__ by refitting the model to each bootstrapped sample of the training data. The bootstrapped coefficients are shown as a grid of histograms below. The histograms reveal that mean $\beta_i$ values that are very similar to the corresponding $\beta_i$ values identified in our original degree-3 polynomial model. 
 
 <p align="center">
   <img src="imgs/CI-coefficient.png" />

@@ -1,4 +1,4 @@
-# Data Science Portfolio - Audrey Chang
+# Data Analyst Portfolio - Audrey Chang
 
 <img align="right" src="imgs/pp_circle.png" width="220">
 
@@ -28,7 +28,7 @@ Talk to me about: applying data science, statistical & machine learning tools to
 
 Scraped the HTML from a webpage of [Top 100 Stars for 2021](https://www.imdb.com/list/ls577894422/) using the BeautifulSoup Python package and stored actor/actress profiles in a JSON file. Loaded data into dataframe to calculate new actor/actress metrics (age at first credit, number of credits), summary statistics (number of child stars, number of late bloomers), and explored how profiles differed between age groups and genders.  
 
-**Skills:** web dcraping, data parsing, EDA <br />
+**Skills:** web scraping, data parsing, EDA <br />
 **Tools:** BeautifulSoup
 
 ---
@@ -40,7 +40,7 @@ Analyzed simulated income data from the publically available 2021 US Annual Soci
 **Tools:** Matplotlib, Seaborn
 
 ---
-### Predicting change in bacteria populations
+### [Predicting change in bacteria populations]()
 
 Built regression models to predict the percentage change in bacteria population after 4 hours based on their "spreading factor." Used k-fold cross validation and boostraps to identify the best degree polynomial regression and LASSO regularization with hypermarameter tuning to improve model consistency and identify the "most significant" set of polynomial degrees by using bootstraps.
 

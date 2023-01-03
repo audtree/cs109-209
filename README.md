@@ -40,7 +40,7 @@ Analyzed simulated income data from the publically available 2021 US Annual Soci
 **Tools:** Matplotlib, Seaborn
 
 ---
-### [Predicting change in bacteria populations]()
+### [Predicting change in bacteria populations](https://github.com/audtree/data-analyst-portfolio/blob/main/bacterial-change/README.md)
 
 Built regression models to predict the percentage change in bacteria population after 4 hours based on their "spreading factor." Used k-fold cross validation and boostraps to identify the best degree polynomial regression and LASSO regularization with hypermarameter tuning to improve model consistency and identify the "most significant" set of polynomial degrees by using bootstraps.
 

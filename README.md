@@ -1,4 +1,4 @@
-# Data Science Portfolio - Audrey Chang
+# Data Analyst Portfolio - Audrey Chang
 
 <img align="right" src="imgs/pp_circle.png" width="220">
 

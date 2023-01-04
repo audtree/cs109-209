@@ -17,7 +17,7 @@ In the last 3 years, I've...
 Talk to me about: applying data science, statistical & machine learning tools to business strategy, management, and marketing trends; the formation of community & social dynamics; and the design of products, places, and markets!
 
 * **Email**: audreychang@college.harvard.edu
-* **Linkedin**: linkedin.com/audreyxychang
+* **Linkedin**: [linkedin.com/audreyxychang](https://www.linkedin.com/in/audreyxychang/)
 
 ---
 ## Projects
@@ -55,5 +55,45 @@ Analyzed [Kaggle data](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-ca
 **Skills:** linear regression, k-Nearest Neighbors (kNN) regression, hyperparameter tuning <br />
 **Tools:** scikit-learn
 
+---
+### Predicting college admissions
 
 
+**Skills:** linear regression, k-Nearest Neighbors (kNN) regression, hyperparameter tuning <br />
+**Tools:** scikit-learn
+
+
+
+## Core Competencies
+
+* Supervised Learning
+    * kNN
+    * Linear Regression
+    * Logistic Regression
+    * Decision Trees, Bagging, and Random Forests
+    * Gradient and Adaptive Boosting
+    * Regularization
+* Unsupervised Learning
+    * K-Means Clustering
+    * PCA
+* Data Collection & Management
+    * Imputation
+    * Web scraping
+    * Data Ethics
+    * Data Visualization
+
+## Work in Progress
+
+In Spring 2023, I will be taking [AC209b: Advanced Topics in Data Science](https://harvard-iacs.github.io/2020-CS109B/pages/syllabus.html). Topics include:
+* Smoothing and Additive Models
+* Unsupervised Learning, Clustering
+* Bayesian Modeling
+* Convolutional Neural Networks
+* Autoencoders
+* Recurrent Neural Networks
+* NLP / Text Analysis
+* Variational AutoEncoders & Generative Models
+* Generative Adversarial Networks
+* (Deep) Reinforcement Learning
+
+In my free time, I am currently exploring a [fictional dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) of Employee Attrition & Performance created by IBM data scientists and provided by Kaggle. I use this data to build a model that predicts the likelihood of attrition dependent on specific employee characteristics, identifying significant factors that contribute to attrition. I will update my Github with work when complete. 

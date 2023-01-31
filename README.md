@@ -104,4 +104,6 @@ In Spring 2023, I will be taking [AC209b: Advanced Topics in Data Science](https
 * Generative Adversarial Networks
 * (Deep) Reinforcement Learning
 
+<!---
 In my free time, I am currently exploring a [fictional dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) of Employee Attrition & Performance created by IBM data scientists and provided by Kaggle. I use this data to build a model that predicts the likelihood of attrition dependent on specific employee characteristics, identifying significant factors that contribute to attrition. I will update my Github with work when complete. 
+-->

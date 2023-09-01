@@ -2,7 +2,7 @@
 
 <img align="right" src="imgs/pp_circle.png" width="220">
 
-Hi! I'm Audrey, an impact-oriented data scientist and Harvard sophomore studying Applied Math on the Economics and Computer Science Track. This repository collects data science and data analysis projects I have completed for academic, self-learning and hobby purposes. 
+Hi! I'm Audrey, an impact-oriented data scientist and Harvard junior joint concentrating in Statistics and Computer Science with a secondary in Sociology. This repository collects data science and data analysis projects I have completed for academic, self-learning and hobby purposes. 
 
 **A bit about me...**
 

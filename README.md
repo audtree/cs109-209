@@ -1,8 +1,8 @@
-# Data Analyst Portfolio - Audrey Chang
+# Data Scientist Portfolio - Audrey Chang
 
 <img align="right" src="imgs/pp_circle.png" width="220">
 
-Hi! I'm Audrey, an impact-oriented data scientist and Harvard junior joint concentrating in Statistics and Computer Science with a secondary in Sociology. This repository collects data science and data analysis projects I have completed for academic, self-learning and hobby purposes. 
+Hi! I'm Audrey, an impact-oriented data scientist and Harvard junior joint concentrating in Computer Science and Statistics with a secondary in Sociology. This repository collects data science and data analysis projects I have completed for academic, self-learning and hobby purposes. 
 
 **A bit about me...**
 

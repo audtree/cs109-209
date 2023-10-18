@@ -24,6 +24,20 @@ Talk to me about: Responsible AI (algorithmic fairness, sociotechnical auditing,
 <sup> Note: Some projects are associated to coding exercises and assignments from Harvard's Data Science course, CS109. It violates Copyright Laws to have the assignments available publicly, although I am happy to walk through a detailed project process upon request — see my contact information below! When available, a summary of my produced figures is linked in the associated repository's README. </sup>
 
 ---
+### Predicting homelessness rate
+
+Built a model that predicts the total number of individuals experiencing homelessness per 10,000 people in the US based on environmental and market predictors using [data](https://www.huduser.gov/portal/datasets/hpmd.html) from the US Department of Housing and Urban Development (HUD). Expanded upon the HUD's 2019 report and reconstructed their linear regression predictive model as our baseline model. Cleaned data, conducted exploratory data analysis and visualization for selected features. Developed model: implemented decision tree model with cross validation, bagging model with cross validation, random forest model, AdaBoost and gradient boosting models, and a stacked model. Compared models via their R-squared values and computation time to determine that the Gradient Boosting model performed the best on the test data with the highest $R^2$ value of 0.8859, far greater than the simulated report linear regression with an $R^2$ of 0.385. 
+
+**Skills:** model stacking, AdaBoost, gradient boosting, model selection, random forest, data visualization, data cleaning and imputation
+
+---
+### Classifying Higgs bosons
+
+Examined data from Monte-Carlo simulations of collisions of particles in a particle collider experiment (subset of HIGGS data set in the UCI machine learning repository, details [linked](https://www.nature.com/articles/ncomms5308)) to classify which collisions produce Higgs bosons. The data contain 5000 entries, each a particle collisions described by 28 features. Constructed baseline prediction model from an overfit decision tree. Employed bagging model to reduce variance, random forest model to reduce correlation between trees, and an AdaBoost classifier to further improve accuracy. With AdaBoost Classifier, explored validation and training accuracy as a function of number of estimators and base learner depth.  
+
+**Skills:** boosting (AdaBoost), random forests, bagging
+
+---
 ### Analyzing Top IMDB Stars
 
 Scraped the HTML from a webpage of [Top 100 Stars for 2021](https://www.imdb.com/list/ls577894422/) using the BeautifulSoup Python package and stored actor/actress profiles in a JSON file. Loaded data into dataframe to calculate new actor/actress metrics (age at first credit, number of credits), summary statistics (number of child stars, number of late bloomers), and explored how profiles differed between age groups and genders.  
@@ -59,18 +73,6 @@ Used data scraped from [collegedata.com](collegedata.com) — around 1500 studen
 **Skills:** logistic regression, ROC curves & AUC metric
 
 ---
-### Classifying Higgs bosons
-
-Examined data from Monte-Carlo simulations of collisions of particles in a particle collider experiment (subset of HIGGS data set in the UCI machine learning repository, details [linked](https://www.nature.com/articles/ncomms5308)) to classify which collisions produce Higgs bosons. The data contain 5000 entries, each a particle collisions described by 28 features. Constructed baseline prediction model from an overfit decision tree. Employed bagging model to reduce variance, random forest model to reduce correlation between trees, and an AdaBoost classifier to further improve accuracy. With AdaBoost Classifier, explored validation and training accuracy as a function of number of estimators and base learner depth.  
-
-**Skills:** boosting (AdaBoost), random forests, bagging
-
----
-### Predicting homelessness rate
-
-Built a model that predicts the total number of individuals experiencing homelessness per 10,000 people in the US based on environmental and market predictors using [data](https://www.huduser.gov/portal/datasets/hpmd.html) from the US Department of Housing and Urban Development (HUD). Expanded upon the HUD's 2019 report and reconstructed their linear regression predictive model as our baseline model. Cleaned data, conducted exploratory data analysis and visualization for selected features. Developed model: implemented decision tree model with cross validation, bagging model with cross validation, random forest model, AdaBoost and gradient boosting models, and a stacked model. Compared models via their R-squared values and computation time to determine that the Gradient Boosting model performed the best on the test data with the highest $R^2$ value of 0.8859, far greater than the simulated report linear regression with an $R^2$ of 0.385. 
-
-**Skills:** model stacking, AdaBoost, gradient boosting, model selection, random forest, data visualization, data cleaning and imputation
 
 ## Core Competencies
 

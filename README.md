@@ -94,14 +94,14 @@ Used data scraped from [collegedata.com](collegedata.com) — around 1500 studen
 
 ## Work in Progress
 
-In Spring 2023, I will be taking [AC209b: Advanced Topics in Data Science](https://harvard-iacs.github.io/2020-CS109B/pages/syllabus.html). Topics include:
+In Spring 2023, I took [AC209b: Advanced Topics in Data Science](https://harvard-iacs.github.io/2020-CS109B/pages/syllabus.html). Topics include:
 * Smoothing and Additive Models
 * Unsupervised Learning, Clustering
 * Bayesian Modeling
 * Convolutional Neural Networks
 * Autoencoders
 * Recurrent Neural Networks
-* NLP / Text Analysis
+* NLP / Text Analysis (i.e. BERT)
 * Variational AutoEncoders & Generative Models
 * Generative Adversarial Networks
 * (Deep) Reinforcement Learning

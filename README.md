@@ -14,7 +14,7 @@ In the last 3 years, I've...
 * designed useful and elegant digital experiences as a UI/UX consultant [@Harvard Design Collective](https://www.harvarddesignco.com/), 
 * and spearheaded nationally-recognized environmental initiatives as co-president of [@Green Team](https://www.losaltosonline.com/schools/los-altos-high-earns-national-green-ribbon-for-sustainability/article_02a15773-37f6-5683-a195-b68b7572c40b.html). 
 
-Talk to me about: applying data science, statistical & machine learning tools to business strategy, management, and marketing trends; the formation of community & social dynamics; and the design of products, places, and markets!
+Talk to me about: Responsible AI (algorithmic fairness, sociotechnical auditing, data privacy), applying data science, statistical & machine learning tools to business strategy, management, and marketing trends; and the design of products, places, and markets!
 
 * **Email**: audreychang@college.harvard.edu
 * **Linkedin**: [linkedin.com/audreyxychang](https://www.linkedin.com/in/audreyxychang/)

@@ -1,4 +1,4 @@
-# Data Scientist Portfolio - Audrey Chang
+# CS109a / CS209b Projects - Audrey Chang
 
 <img align="right" src="imgs/pp_circle.png" width="220">
 
